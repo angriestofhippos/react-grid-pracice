@@ -1,0 +1,5 @@
+.Footer {
+	grid-area: foot;
+	background: red;
+	padding: 10px;
+}

@@ -1,0 +1,4 @@
+.Menu {
+	grid-area: nav;
+	background: yellow;
+}

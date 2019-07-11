@@ -1,0 +1,8 @@
+.Header {
+	background: rgba(231, 66, 15, 0.781);
+	width: 100%;
+	align-content: center;
+	margin: auto;
+	text-align: center;
+	grid-area: head;
+}
